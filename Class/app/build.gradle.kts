@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "np.com.lashman.demo1"
+    namespace = "np.com.lashman.traditionalandroiddevelopement"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "np.com.lashman.demo1"
+        applicationId = "np.com.lashman.traditionalandroiddevelopement"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
